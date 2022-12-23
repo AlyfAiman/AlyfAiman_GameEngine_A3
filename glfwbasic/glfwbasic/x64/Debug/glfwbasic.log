@@ -1,0 +1,12 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (glfwbasic.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Application.cpp
+D:\KDU - Degree\Game Engine\RETAKE\0132305_XBGT3124_A3\AlyfAiman_A3\glfwbasic\glfwbasic\GameScene.h(30,46): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\KDU - Degree\Game Engine\RETAKE\0132305_XBGT3124_A3\AlyfAiman_A3\glfwbasic\glfwbasic\Application.cpp(35,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\KDU - Degree\Game Engine\RETAKE\0132305_XBGT3124_A3\AlyfAiman_A3\glfwbasic\glfwbasic\Application.cpp(67,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\KDU - Degree\Game Engine\RETAKE\0132305_XBGT3124_A3\AlyfAiman_A3\glfwbasic\glfwbasic\Application.cpp(68,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\KDU - Degree\Game Engine\RETAKE\0132305_XBGT3124_A3\AlyfAiman_A3\glfwbasic\glfwbasic\Application.cpp(73,29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  glfwbasic.vcxproj -> D:\KDU - Degree\Game Engine\RETAKE\0132305_XBGT3124_A3\AlyfAiman_A3\glfwbasic\Build\AlyfAiman_A3_Debug.exe
